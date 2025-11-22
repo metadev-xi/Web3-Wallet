@@ -1,3 +1,8 @@
+<div align="center">
+  <video src="./demo.mp4" controls></video>
+  <p><a href="./demo.mp4">Watch the demo</a></p>
+</div>
+
 # 🔐 Web3 Wallet
 
 <div align="center">
@@ -49,31 +54,6 @@
 - Import/export wallet functionality
 
 ---
-
-## 🚀 Installation
-
-### Browser Extensions
-
-#### Chrome
-1. Visit [Chrome Web Store](https://chrome.google.com/webstore)
-2. Search for "Web3 Wallet" or click [here](#)
-3. Click "Add to Chrome"
-4. Pin the extension for easy access
-
-#### Firefox
-1. Visit [Firefox Add-ons](https://addons.mozilla.org)
-2. Search for "Web3 Wallet" or click [here](#)
-3. Click "Add to Firefox"
-4. Grant necessary permissions
-
-### 📱 Mobile Versions
-
-<div align="center">
-
-[![Download on App Store](https://img.shields.io/badge/Download_on-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/)
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/)
-
-</div>
 
 **iOS Requirements**: iOS 14.0 or later  
 **Android Requirements**: Android 8.0 (API level 26) or later
@@ -136,61 +116,6 @@
 - npm or yarn
 - For mobile: Xcode (iOS) or Android Studio (Android)
 
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/web3-wallet.git
-
-# Navigate to project directory
-cd web3-wallet
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Building Extensions
-
-```bash
-# Build Chrome extension
-npm run build:chrome
-
-# Build Firefox extension
-npm run build:firefox
-
-# Output will be in /dist folder
-```
-
-### Building Mobile Apps
-
-```bash
-# iOS
-cd mobile && npx react-native run-ios
-
-# Android
-cd mobile && npx react-native run-android
-
-# Production builds
-npm run build:ios
-npm run build:android
-```
-
-### Testing
-
-```bash
-# Run unit tests
-npm run test
-
-# Run E2E tests
-npm run test:e2e
-
-# Check code coverage
-npm run test:coverage
-```
-
 ---
 
 ## 📖 Documentation
@@ -202,19 +127,6 @@ Comprehensive documentation is available in the `/docs` folder:
 - [Security Practices](docs/security.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [FAQ](docs/faq.md)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ---
 
@@ -238,31 +150,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Roadmap
-
-### Q1 2025
-- [ ] Account Abstraction (ERC-4337) support
-- [ ] Multi-signature wallet functionality
-- [ ] Enhanced portfolio analytics with charts
-
-### Q2 2025
-- [ ] Integration with more L2 solutions
-- [ ] In-app fiat on/off ramp
-- [ ] Social recovery options
-
-### Q3 2025
-- [ ] Desktop applications (macOS, Windows, Linux)
-- [ ] Browser wallet as a PWA
-- [ ] Advanced DeFi features (yield farming, etc.)
-
----
 
 ## 💬 Community & Support
 
-- **Discord**: [Join our community](https://discord.gg/web3wallet)
-- **Twitter**: [@Web3Wallet](https://twitter.com/web3wallet)
-- **Telegram**: [t.me/web3wallet](https://t.me/web3wallet)
-- **Email**: support@web3wallet.com
+- **Twitter**: [@0xProject](https://x.com/0xtechguru)
+- **LinkedIn**: [0x on LinkedIn](https://www.linkedin.com/company/0x-technologies)
+- **Support**: Contact via [0x Dashboard](https://0xtech.org) or Intercom messenger on 0x.org
+- **Sales**: [Contact 0x Sales](https://t.me/metaDevxi)
 
 ---
 
@@ -277,10 +171,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the Web3 Wallet Team**
+**Powered by 0x Protocol**
 
-⭐ Star us on GitHub — it helps!
-
-[Website](https://web3wallet.com) • [Blog](https://blog.web3wallet.com) • [Careers](https://web3wallet.com/careers)
+[0xtech.org](https://0x.org)  • [Contact](https://0xtech.org/contact)
 
 </div>
