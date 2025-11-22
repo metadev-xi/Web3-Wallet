@@ -1,8 +1,3 @@
-<div align="center">
-  <video src="./demo.mp4" controls></video>
-  <p><a href="./demo.mp4">Watch the demo</a></p>
-</div>
-
 # 🔐 Web3 Wallet
 
 <div align="center">
@@ -19,6 +14,17 @@
 </div>
 
 ---
+
+<div align="center">
+
+![Demo](./demo.gif)
+
+![Demo 2](./demo2.gif)
+
+![Demo 3](./demo3.gif)
+
+</div>
+
 
 ## ✨ Features
 
