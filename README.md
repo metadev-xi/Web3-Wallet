@@ -138,9 +138,6 @@ Comprehensive documentation is available in the `/docs` folder:
 
 ## 🔐 Security
 
-### Reporting Vulnerabilities
-If you discover a security vulnerability, please email [security@web3wallet.com](mailto:security@web3wallet.com). Do not open public issues for security concerns.
-
 ### Security Features
 - ✅ Open source and audited code
 - ✅ No data collection or tracking
@@ -159,10 +156,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Community & Support
 
-- **Twitter**: [@0xProject](https://x.com/0xtechguru)
-- **LinkedIn**: [0x on LinkedIn](https://www.linkedin.com/company/0x-technologies)
-- **Support**: Contact via [0x Dashboard](https://0xtech.org) or Intercom messenger on 0x.org
-- **Sales**: [Contact 0x Sales](https://t.me/metaDevxi)
+- **Twitter**: [@0xtechguru](https://x.com/0xtechguru)
+- **LinkedIn**: [0xtech on LinkedIn](https://www.linkedin.com/company/0x-technologies)
+- **Support**: Contact via [0x Technologies](https://0xtech.org) or Intercom messenger on 0x.org
+- **Sales**: [Contact on telegran](https://t.me/metaDevxi)
 
 ---
 
